@@ -1,1 +1,1 @@
-# coffee-cabinet
+# Coffee Cabinet
